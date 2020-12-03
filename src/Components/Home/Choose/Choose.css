@@ -1,0 +1,11 @@
+.img-container {
+    border-radius: 10px;
+    padding: 30px;
+    margin: 10px;
+    border-style: none;
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.1);
+}
+.img-container img{
+    width: 80px;
+    
+}

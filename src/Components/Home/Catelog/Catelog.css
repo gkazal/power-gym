@@ -1,0 +1,10 @@
+.catelog-contain{
+    /* background-image: `linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(${img1})`; */
+
+    background-repeat: 'no-repeat';
+    object-fit: cover;
+    position: 'relative';
+    height: '40%';
+    width: '100%';
+
+}
